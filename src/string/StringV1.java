@@ -1,6 +1,5 @@
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-import java.util.Locale;
+package string;
+
 import java.util.Scanner;
 
 public class StringV1 {
