@@ -24,7 +24,7 @@ public class BinarySearch {
 
     public static void main(String[] args) {
         Solution solution = new Solution();
-        int[] list = {-1, 0, 3, 5, 9 ,12};
+        int[] list = {1, 5, 7, 1};
         int target = 9;
         System.out.println(solution.solution(list, target));
     }
