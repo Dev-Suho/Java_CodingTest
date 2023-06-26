@@ -1,4 +1,4 @@
-package baekjoon;
+package baekjoon.DataStructure;
 
 import java.util.Arrays;
 import java.util.Scanner;
